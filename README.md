@@ -10,19 +10,17 @@
 
 🌟 Curious, motivated, and always eager to learn — let’s build something amazing together.
 
-
 ---
 
 ## 🔧 Technologies & Tools
 Here are some of the technologies I enjoy working with:
 
 - **Languages:** PHP, TypeScript, JavaScript, HTML, CSS  
-- **Back-end:** Node.js, PHP frameworks  
-- **Front-end:** React, modern JS tools  
-- **Other:** Git, APIs, Web tooling
+- **Back-end:** Node.js, PHP frameworks, Apache, Nginx  
+- **Front-end:** React, Vuejs, modern JS tools  
+- **Other:** Git, APIs, Docker,Web tooling
 
 ---
 
 ## 📫 Get in Touch
 Feel free to reach out if you want to collaborate or just chat about tech!
-
